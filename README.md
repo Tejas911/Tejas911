@@ -47,8 +47,8 @@ Passionate about leveraging the power of data and artificial intelligence, I am 
 <br>
 <br>
 📫 How to reach me :<br>
+- Email: tejas.sakhare018@gmail.com
 - Linkedin: https://www.linkedin.com/in/tejas-sakhare018 <br>
-- Email: <a href = "tejas.sakhare018@gmail.com" >tejas.sakhare018@gmail.com<a/>
 <!---
 Tejas911/Tejas911 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
