@@ -2,7 +2,8 @@
 <div style="margin: 20px"" >
 Passionate about leveraging the power of data and artificial intelligence, I am currently pursuing my Bachelor's degree in Artificial Intelligence and Data Science. With a strong foundation in data analytics, machine learning, and programming, I am driven to carve a successful career as a Data Scientist.
 <div>
-  
+<br>
+<br>
 🚀 Actively Engaged in the Realm of Machine Learning & Data Science<br>
 📊 Proficient Data Analyst with a Keen Eye for Insights<br>
 💻 Expert in Web Development with React for Crafting Intuitive User Experiences<br>
@@ -47,7 +48,7 @@ Passionate about leveraging the power of data and artificial intelligence, I am 
 <br>
 📫 How to reach me :<br>
 - Linkedin: https://www.linkedin.com/in/tejas-sakhare018 <br>
-- Email: tejas.sakhare018@gmail.com
+- Email: <a href = "tejas.sakhare018@gmail.com" >tejas.sakhare018@gmail.com<a/>
 <!---
 Tejas911/Tejas911 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
