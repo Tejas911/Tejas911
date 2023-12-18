@@ -1,14 +1,15 @@
 # About me
-
+<div>
 Passionate about leveraging the power of data and artificial intelligence, I am currently pursuing my Bachelor's degree in Artificial Intelligence and Data Science. With a strong foundation in data analytics, machine learning, and programming, I am driven to carve a successful career as a Data Scientist.
-
-🚀 Actively Engaged in the Realm of Machine Learning & Data Science
-📊 Proficient Data Analyst with a Keen Eye for Insights
-💻 Expert in Web Development with React for Crafting Intuitive User Experiences
-🔍 Adept at Extracting Knowledge from Data to Drive Informed Decision-Making
-🌐 Enthusiastic Explorer of Innovative Technologies and Frameworks
-🤖 Passionate about Leveraging Machine Learning for Intelligent Solutions
-📈 Continuous Learner, Always Striving for Excellence in Data-Driven Development
+<div>
+  
+🚀 Actively Engaged in the Realm of Machine Learning & Data Science<br>
+📊 Proficient Data Analyst with a Keen Eye for Insights<br>
+💻 Expert in Web Development with React for Crafting Intuitive User Experiences<br>
+🔍 Adept at Extracting Knowledge from Data to Drive Informed Decision-Making<br>
+🌐 Enthusiastic Explorer of Innovative Technologies and Frameworks<br>
+🤖 Passionate about Leveraging Machine Learning for Intelligent Solutions<br>
+📈 Continuous Learner, Always Striving for Excellence in Data-Driven Development<br>
 ✨ Open to Exciting Collaborations: Let's Elevate our Skills and Achievements Together!
 
 # Tech Stack
