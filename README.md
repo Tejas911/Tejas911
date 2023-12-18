@@ -1,5 +1,5 @@
 # About me
-<div>
+<div style="margin: 20px"" >
 Passionate about leveraging the power of data and artificial intelligence, I am currently pursuing my Bachelor's degree in Artificial Intelligence and Data Science. With a strong foundation in data analytics, machine learning, and programming, I am driven to carve a successful career as a Data Scientist.
 <div>
   
